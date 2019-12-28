@@ -3,7 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: 1-resumen.aux
 The style file: apacite.bst
-A level-1 auxiliary file: 2-temario.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -17,7 +16,7 @@ Database file #1: references.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 1 entry,
             6951 wiz_defined-function locations,
-            1278 strings with 10822 characters,
+            1277 strings with 10809 characters,
 and the built_in function-call counts, 1807 in all, are:
 = -- 216
 > -- 14

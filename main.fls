@@ -1,4 +1,4 @@
-PWD /Users/Santiago/Google Drive/universidad/Magister/MT4/mt4
+PWD /Users/Santiago/Google Drive/universidad/Magister/MT4
 INPUT /usr/local/texlive/2015/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -127,8 +127,6 @@ INPUT main.aux
 INPUT main.aux
 INPUT 1-resumen.aux
 INPUT 1-resumen.aux
-INPUT 2-temario.aux
-INPUT 2-temario.aux
 OUTPUT main.aux
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -151,10 +149,10 @@ INPUT main.out
 INPUT main.out
 INPUT main.out
 INPUT main.out
-OUTPUT main.pdf
 INPUT ./main.out
 INPUT ./main.out
 OUTPUT main.out
+OUTPUT main.pdf
 INPUT doc.tex
 INPUT doc.tex
 INPUT docs/FormularioMT4.pdf
@@ -253,20 +251,9 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT main.bbl
 INPUT main.bbl
-OUTPUT 2-temario.aux
-INPUT 2-temario.tex
-INPUT 2-temario.tex
-INPUT main.toc
-INPUT main.toc
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-OUTPUT main.toc
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT main.aux
 INPUT 1-resumen.aux
 INPUT 1-resumen.aux
-INPUT 2-temario.aux
-INPUT 2-temario.aux
 INPUT ./main.out
 INPUT ./main.out
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc

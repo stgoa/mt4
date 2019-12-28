@@ -19,7 +19,6 @@ Los archivos están comentados.
 |-- doc.tex
 |                                  (Texto)
 |-- 1-resumen.tex
-|-- 2-temario.tex
 |                                  (Referencias)
 |-- references.bib
 |                                  (Documentos adicionales)
