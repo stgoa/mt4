@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Haase%
+\ \BBA {} Nickerson%
+}{%
+Haase%
+\ \BBA {} Nickerson%
+}{%
+{\protect \APACyear {1966}}%
+}]{%
+haase1966kinetic}
+\APACinsertmetastar {%
+haase1966kinetic}%
+\begin{APACrefauthors}%
+Haase, G.%
+\BCBT {}\ \BBA {} Nickerson, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1966}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Kinetic reactions of alpha and beta lactose. II.
+  Crystallization} {Kinetic reactions of alpha and beta lactose. ii.
+  crystallization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of dairy science}{49}{7}{757--761}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
