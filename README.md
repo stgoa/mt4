@@ -36,6 +36,4 @@ Aportes
 -------
 Si tienen cualquier corrección o mejora pueden enviar un pull-request con los
 cambios, o al menos contactarme.
-# mt4
-# mt4
-# mt4
+
