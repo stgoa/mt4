@@ -17,8 +17,10 @@ Los archivos están comentados.
 |                                  (Configuración)
 |-- main.tex
 |-- doc.tex
-|                                  (Texto)
-|-- 1-resumen.tex
+|                                  
+|-- 1-resumen.tex						(Texto)
+|-- 2-temario_tentativo.tex         (Temario)
+|
 |                                  (Referencias)
 |-- references.bib
 |                                  (Documentos adicionales)
