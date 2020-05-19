@@ -5,7 +5,7 @@ Este proyecto de LaTeX es un template para realizar el formulario MT4 según el 
 
 Disclaimer
 ----------
-El template podría no ser totalmente correcto. (A mi me lo aprovaron sin problemas)
+El template podría no ser totalmente correcto. (A mi me lo aprobaron sin problemas)
 
 
 Estructura
